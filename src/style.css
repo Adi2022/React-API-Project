@@ -1,0 +1,162 @@
+
+*{
+    padding:0;
+    margin:0;
+    box-sizing: border-box;
+}
+
+.custom-bg{
+    background-color: #6F42C1;
+    width:100%;
+    height:auto;
+   
+    ;
+}
+
+.bg{
+    background-color: #6F42C1;
+   
+}
+.home-para{
+    color:white;
+    font-size: 40px;
+    
+}
+
+.para-info{
+    color:white;
+    font-size: 20px;
+}
+.hire{
+    background-color: #6F42C1;
+    color:white;
+    padding:5%;
+    width:50%;
+    border-radius: 50px;
+    border: 2px solid white;
+    font-size: 20px;
+   
+   
+   
+}
+.hire:hover{
+    background-color: white;
+   color:black;
+    transform: scale(1.1);
+  transition-duration: 0.5s;
+  
+
+}
+
+.resume{
+    background-color: #F33A6A	;
+    color:white;
+    padding:5%;
+    width:50%;
+    border-radius: 50px;
+    border: 2px solid white;
+ 
+}
+.resume:hover{
+    background-color: white;
+    color:black;
+     transform: scale(1.1);
+   transition-duration: 0.5s;
+ 
+
+}
+
+.image1{
+    border-radius:24px;
+    width:20rem;
+    padding-bottom: 35px;
+    
+}
+
+.image1:hover{
+    transform: scale(1.1);
+    transition-duration: 1s;
+}
+
+.box{
+    
+    
+    border:2px solid gray;
+    margin-bottom: 100px;
+    box-shadow: 20px 20px 10px #888888;;
+
+}
+.box1{
+    
+    height:100vh;
+    border:2px solid gray;
+    margin-bottom: 40px;
+    box-shadow: 20px 20px 10px #888888;
+    margin-top: 100px;
+
+}
+
+.port-image{
+    width:100%;
+    height:99vh;
+    padding:4%;
+    
+}
+.port-image:hover{
+    transform: scale(0.9);
+    transition-duration: 0.5s;
+}
+.para1{
+    padding:6% 6%;
+    text-align: justify;
+    line-height: 2;
+}
+.para2{
+    padding:6% 6%;
+    text-align: justify;
+    line-height: 2;
+}
+.para12{
+    color:white;
+   
+}
+
+.heading1{
+    font-size: 25px;
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.line{
+color: #6F42C1;
+width:100%;
+height: 100%;
+
+}
+.gallery{
+    margin-top: 5rem;
+    margin-bottom: 5rem;
+}
+label{
+    color:white;
+}
+.mypro{
+    color:#6F42C1;
+    border-bottom: 5px solid blue;
+    width:100%;
+}
+
+.openbtn{
+    background-color: #F33A6A;
+    color: black;
+}
+.card-img-top{
+    cursor: pointer;
+    transition: all 0.2s linear; 
+}
+
+.card-img-top:hover{
+    cursor: pointer;
+    transition: all 0.6s linear;
+    transform: scale(0.9);
+}

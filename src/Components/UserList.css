@@ -1,0 +1,24 @@
+h2 {
+    text-align: center;
+    margin: 20px 0;
+  }
+  .textLeft {
+    text-align: left;
+  }
+  
+  .card {
+    width: 370px;
+    border: none;
+    border-radius: 10px;
+    background-color: #fff;
+    margin: auto;
+  }
+  .image {
+    min-width: 155px;
+    margin-right: 20px;
+  }
+  
+  NavLink{
+    text-decoration-line: none;
+  }
+  
